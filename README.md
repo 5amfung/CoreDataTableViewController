@@ -1,4 +1,4 @@
 CoreDataTableViewController
 ===========================
 
-Swift version of CoreDataTableViewController used in Standford iOS Course.
+Swift and Swift 2 version of CoreDataTableViewController used in Standford iOS Course.
